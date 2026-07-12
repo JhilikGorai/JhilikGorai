@@ -12,18 +12,18 @@ Building my foundation in web development, one commit, one project, and one less
 
 - 💻 Learning JavaScript, after completing HTML & CSS
 - 📖 Documenting my daily coding practice publicly to stay consistent
-- 🚀 Building projects and preparing for internship opportunities
+- 🚀 Building projects 
 - 📍 Dhanbad, Jharkhand, India
 
 <h3 align="left">My Learning Roadmap</h3>
 
-HTML        ✅
-CSS         ✅
-JavaScript  🔄
-React.js    ⏳
-Node.js     ⏳
-Express.js  ⏳
-MongoDB     ⏳
+- HTML        ✅
+- CSS         ✅
+- JavaScript  🔄
+- React.js    ⏳
+- Node.js     ⏳
+- Express.js  ⏳
+- MongoDB     ⏳
 
 <h3 align="left">💻 Tech Stack</h3>
 
@@ -52,20 +52,20 @@ A SaaS-style pricing page emphasizing clear layout and modern UI patterns.
 
 <h3 align="left">🎯 What I'm Working On</h3>
 
-📚 Strengthening my JavaScript fundamentals
-💻 Building responsive front-end projects
-🧩 Improving problem-solving skills
+- 📚 Strengthening my JavaScript fundamentals
+- 💻 Building responsive front-end projects
+- 🧩 Improving problem-solving skills
 
 <h3 align="left">🌟 Goals</h3>
 
-✔️ Learn the MERN Stack
-✔️ Contribute to Open Source
-✔️ Build and deploy full-stack applications
+- ✔️ Learn the MERN Stack
+- ✔️ Contribute to Open Source
+- ✔️ Build and deploy full-stack applications
 
 <h3 align="left">🌐 Let's Connect</h3>
 
-📷 *Instagram:* [@compiling.dreams](https://instagram.com/compiling.dreams)
-📧 *Email:* (jhilikgorai2008@gmail.com)
+- 📷 *Instagram:* [@compiling.dreams](https://instagram.com/compiling.dreams)
+- 📧 *Email:* (jhilikgorai2008@gmail.com)
 
 <h3 align="left">🌱 A Note</h3>
 
