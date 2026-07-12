@@ -10,10 +10,10 @@ Building my foundation in web development, one commit, one project, and one less
 
 <h3 align="left">🌸 About Me</h3>
 
-💻 Learning JavaScript, after completing HTML & CSS
-📖 Documenting my daily coding practice publicly to stay consistent
-🚀 Building projects and preparing for internship opportunities
-📍 Dhanbad, Jharkhand, India
+- 💻 Learning JavaScript, after completing HTML & CSS
+- 📖 Documenting my daily coding practice publicly to stay consistent
+- 🚀 Building projects and preparing for internship opportunities
+- 📍 Dhanbad, Jharkhand, India
 
 <h3 align="left">My Learning Roadmap</h3>
 
@@ -29,7 +29,7 @@ MongoDB     ⏳
 
 Currently building with:
 
-'HTML5' 'CSS3' 'JavaScript'
+`HTML5` `CSS3` `JavaScript`
 
 <h3 align="left">📂 Featured Projects</h3>
 
@@ -49,12 +49,6 @@ A SaaS-style pricing page emphasizing clear layout and modern UI patterns.
 🔗 [Live Demo](https://jhilikgorai.github.io/TaskFlow-Pricing-Page/)  [Code](https://github.com/JhilikGorai/TaskFlow-Pricing-Page)
 
 *New projects added as I continue building.*
-
-<h3 align="left">🎯 What I'm Working On</h3>
-
-📚 Strengthening my JavaScript fundamentals
-💻 Building responsive front-end projects
-🧩 Improving problem-solving skills
 
 <h3 align="left">🎯 What I'm Working On</h3>
 
