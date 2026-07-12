@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jhilik Gorai</h1>
+
+<h3 align="center">
+🌱 Incoming B.Tech CSE Student • Aspiring Full-Stack Developer • Learning in Public
+</h3>
+
+<p align="center">
+Building my foundation in web development, one commit, one project, and one lesson at a time.
+</p>
 
 <!--
 **JhilikGorai/JhilikGorai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
