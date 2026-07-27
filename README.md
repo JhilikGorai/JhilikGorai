@@ -19,7 +19,7 @@ Building my foundation in web development, one commit, one project, and one less
 
 - HTML        ✅
 - CSS         ✅
-- JavaScript  🔄
+- JavaScript  ✅
 - React.js    ⏳
 - Node.js     ⏳
 - Express.js  ⏳
