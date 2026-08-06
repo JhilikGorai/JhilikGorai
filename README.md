@@ -65,7 +65,7 @@ A SaaS-style pricing page emphasizing clear layout and modern UI patterns.
 <h3 align="left">🌐 Let's Connect</h3>
 
 - 📷 *Instagram:* [@compiling.dreams](https://instagram.com/compiling.dreams)
-- 📧 *Email:* (jhilikgorai2008@gmail.com)
+- 📧 *Email:* (jhilikgorai16@gmail.com)
 
 <h3 align="left">🌱 A Note</h3>
 
