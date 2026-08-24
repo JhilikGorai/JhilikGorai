@@ -13,7 +13,7 @@ Building my foundation in web development, one commit, one project, and one less
 - 💻 Learning JavaScript, after completing HTML & CSS
 - 📖 Documenting my daily coding practice publicly to stay consistent
 - 🚀 Building real-world projects 
-- 📍 Dhanbad, Jharkhand, India
+- 📍 Jharkhand, India
 
 <h3 align="left">My Learning Roadmap</h3>
 
