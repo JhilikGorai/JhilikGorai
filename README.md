@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jhilik Gorai</h1>
 
-<h3 align="center">
-🌱 Incoming B.Tech CSE Student • Aspiring Full-Stack Developer • Learning in Public
-</h3>
-
 <p align="center">
-Building my foundation in web development, one commit, one project, and one lesson at a time.
+I'm currently building my skills in web development and software engineering by learning, practicing, and building real projects.
 </p>
 
 <h3 align="left">🌸 About Me</h3>
